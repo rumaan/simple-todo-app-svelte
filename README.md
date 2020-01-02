@@ -1,6 +1,6 @@
 # Simple TODO Svelte app
 
-This is a TODO app built with [Svelte](https://svelte.dev) apps.
+This is a Simple TODO app built with [Svelte](https://svelte.dev)
 
 ```bash
 npx degit sveltejs/template svelte-app
