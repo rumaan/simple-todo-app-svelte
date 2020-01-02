@@ -2,24 +2,11 @@
 
 This is a Simple TODO app built with [Svelte](https://svelte.dev)
 
-<div class="images">
 
 ![Screenshot 1](/screenshots/01.png)
 ![Screenshot 2](/screenshots/02.png)
 
-</div>
 
-<style>
-    .images {
-        display: flex;
-        justify-content: space-evenly;
-        flex-flow: row no-wrap;
-    }
-
-    .images > * {
-        max-width: 300px;
-    }
-</style>
 
 ```bash
 npx degit sveltejs/template svelte-app
