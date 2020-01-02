@@ -1,12 +1,6 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Simple TODO Svelte app
 
----
-
-# svelte app
-
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+This is a TODO app built with [Svelte](https://svelte.dev) apps.
 
 ```bash
 npx degit sveltejs/template svelte-app
