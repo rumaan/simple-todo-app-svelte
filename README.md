@@ -3,8 +3,10 @@
 This is a Simple TODO app built with [Svelte](https://svelte.dev)
 
 <div>
+  
 ![Screenshot 1](/screenshots/01.png)
 ![Screenshot 2](/screenshots/02.png)
+
 <div>
 
 
